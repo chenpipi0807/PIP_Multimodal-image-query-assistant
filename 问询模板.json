@@ -1,0 +1,14 @@
+{
+  "question_1": {
+    "description": "How many people are in the picture? Only output the number of people. If there are no people, output 0.",
+    "answer": ""
+  },
+  "question_2": {
+    "description": "Give a subjective aesthetic score to the image. Only output the score number:",
+    "answer": ""
+  },
+  "question_3": {
+    "description": "Tell me the number and gender of people in the image. The output is limited to 'N men', 'N women', 'N men and N women', 'no people' (where N represents a number)",
+    "answer": ""
+  }
+}

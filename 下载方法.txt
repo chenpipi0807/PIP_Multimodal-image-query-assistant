@@ -1,0 +1,14 @@
+创建虚拟环境
+python -m venv venv
+激活虚拟环境
+venv\Scripts\Activate
+git clone https://github.com/deepseek-ai/Janus.git
+cd Janus
+pip install -e .
+pip install -r requirements.txt
+cd ..
+新建mdlels文件夹
+cd models
+git lfs install
+git lfs clone https://huggingface.co/deepseek-ai/Janus-1.3B.git
+使用python运行 PIP多模态图像助理.py
