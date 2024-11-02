@@ -1,6 +1,7 @@
 # PIP多模态图像助理
-![微信图片_20241102232935](https://github.com/user-attachments/assets/0be21889-b2c5-4300-853f-16f637478d1b)
-![微信截图_20241102233016](https://github.com/user-attachments/assets/3a01e4af-6d3b-449d-a188-09f40354758e)
+
+![微信截图_20241102233935](https://github.com/user-attachments/assets/e2746ba5-cbd9-4dec-8528-c1f384d1ec8b)
+
 ![微信截图_20241102233005](https://github.com/user-attachments/assets/e0f09115-cfc5-4eef-be1a-f6006956ea52)
 
 PIP多模态图像助理是一个基于Janus魔改的多模态理解的图像处理工具，你可以用这个方法询问任何关于图像的信息，同时支持批量标注图像。
