@@ -39,3 +39,13 @@ if (-Not (Test-Path -Path ".\Janus-1.3B")) {
 
 # 返回上级目录
 Set-Location -Path ..
+
+# 执行 RUN_GUI.py
+try {
+    python .\Janus\RUN_GUI.py
+} catch {
+    Write-Host "执行失败，请检查错误信息。"
+}
+
+# 暂停以保持窗口打开
+Read-Host -Prompt "按任意键退出"
