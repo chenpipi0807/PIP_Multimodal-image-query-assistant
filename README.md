@@ -13,10 +13,11 @@ PIP多模态图像助理是一个基于Janus魔改的多模态理解的图像处
 请按照以下步骤安装和运行项目：
 
 1.克隆到本地
+git clone https://github.com/chenpipi0807/PIP_Multimodal-image-query-assistant.git
 
-2.运行这玩意补全模型和其他乱七八糟的玩意  download.ps1
+2.使用powershell 运行这玩意补全模型和其他乱七八糟的玩意：  download.ps1
 
-3.不出意外就用这玩意运行就行了 RUN_GUI.py
+3.不出意外就用这玩意运行就行了： RUN_GUI.py
 
 
 ## 功能
